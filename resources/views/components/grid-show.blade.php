@@ -1,0 +1,1 @@
+<div class="grid grid-cols-3 max-md:grid-cols-2 max-sm:grid-cols-1 gap-8">{{$slot}}</div>

@@ -1,0 +1,1 @@
+<main class="pt-8 max-w-[1538px] xl:mx-auto lg:px-24 md:px-8 max-sm:px-2">{{$slot}}</main>
