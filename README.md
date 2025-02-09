@@ -3,11 +3,11 @@
 -   ### app setup commands
 
 ```bash
-git clone https://github.com/narobe/simple-app.git
+git clone https://github.com/narobe/store-app.git
 ```
 
 ```bash
-cd simple-store
+cd store-app
 ```
 
 ```bash
